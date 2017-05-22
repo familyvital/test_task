@@ -16,7 +16,6 @@ $this->page=array
 	    'link'=>array
 		(
 		"href='style/index.css' type='text/css' rel='stylesheet'",
-#		"href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'",
 		"href='style/jquery-ui.css' rel='stylesheet' type='text/css'",
 		),
 	    'script'=>array
